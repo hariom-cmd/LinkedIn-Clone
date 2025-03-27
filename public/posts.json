@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "id": 101,
+      "name": "John Doe",
+      "profilePic": "https://randomuser.me/api/portraits/men/1.jpg",
+      "title": "Software Engineer at Tech Company"
+    },
+    "content": "Excited to share that I've completed my latest project using React and Bootstrap! #webdevelopment #reactjs",
+    "image": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "timestamp": "2023-03-15T14:30:00",
+    "likes": 42,
+    "comments": [
+      {
+        "id": 201,
+        "user": {
+          "id": 102,
+          "name": "Jane Smith",
+          "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        "content": "Great work! The UI looks amazing.",
+        "timestamp": "2023-03-15T15:00:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user": {
+      "id": 102,
+      "name": "Jane Smith",
+      "profilePic": "https://randomuser.me/api/portraits/women/2.jpg",
+      "title": "Product Manager at Innovation Inc"
+    },
+    "content": "Just published my article on product management best practices. Check it out and let me know your thoughts!",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "timestamp": "2023-03-14T10:15:00",
+    "likes": 78,
+    "comments": []
+  },
+  {
+    "id": 3,
+    "user": {
+      "id": 103,
+      "name": "Robert Johnson",
+      "profilePic": "https://randomuser.me/api/portraits/men/3.jpg",
+      "title": "Data Scientist at Analytics Co"
+    },
+    "content": "I'm happy to announce that I'll be speaking at the upcoming Data Science Conference next month. Hope to see some of you there!",
+    "timestamp": "2023-03-13T09:45:00",
+    "likes": 65,
+    "comments": [
+      {
+        "id": 301,
+        "user": {
+          "id": 104,
+          "name": "Emily Wilson",
+          "profilePic": "https://randomuser.me/api/portraits/women/4.jpg"
+        },
+        "content": "Looking forward to your talk!",
+        "timestamp": "2023-03-13T10:30:00"
+      },
+      {
+        "id": 302,
+        "user": {
+          "id": 105,
+          "name": "Michael Brown",
+          "profilePic": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        "content": "What topics will you be covering?",
+        "timestamp": "2023-03-13T11:15:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "user": {
+      "id": 104,
+      "name": "Emily Wilson",
+      "profilePic": "https://randomuser.me/api/portraits/women/4.jpg",
+      "title": "UX Designer at Creative Solutions"
+    },
+    "content": "Just completed a redesign project for a major client. Here's a sneak peek of the new interface!",
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "timestamp": "2023-03-12T16:20:00",
+    "likes": 92,
+    "comments": []
+  }
+] 

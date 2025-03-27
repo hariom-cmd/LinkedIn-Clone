@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/120px-Google_%22G%22_Logo.svg.png",
+    "title": "Software Engineer",
+    "location": "Mountain View, CA",
+    "description": "We're looking for a Software Engineer to join our team. You will be responsible for developing and maintaining software applications, collaborating with cross-functional teams, and writing high-quality code.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of experience in software development",
+      "Proficiency in one or more programming languages",
+      "Experience with web technologies and frameworks"
+    ],
+    "posted": "2023-07-15"
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/120px-Microsoft_logo.svg.png",
+    "title": "Frontend Developer",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Frontend Developer to create responsive and intuitive user interfaces. You'll work with designers and backend developers to implement engaging user experiences.",
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with React, Angular, or Vue",
+      "Understanding of responsive design principles",
+      "Knowledge of modern frontend build tools"
+    ],
+    "posted": "2023-08-01"
+  },
+  {
+    "id": 3,
+    "company": "Amazon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/120px-Amazon_logo.svg.png",
+    "title": "Data Scientist",
+    "location": "New York, NY",
+    "description": "We are seeking a Data Scientist to analyze large datasets and develop predictive models. You will work with product teams to solve complex problems and drive data-informed decisions.",
+    "requirements": [
+      "MS or PhD in Statistics, Computer Science, or related field",
+      "Experience with machine learning algorithms",
+      "Proficiency in Python or R",
+      "Strong analytical and problem-solving skills"
+    ],
+    "posted": "2023-07-25"
+  },
+  {
+    "id": 4,
+    "company": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png",
+    "title": "iOS Developer",
+    "location": "Cupertino, CA",
+    "description": "Join our team developing innovative iOS applications. You will be responsible for designing, implementing, and maintaining high-performance mobile applications.",
+    "requirements": [
+      "Experience with Swift and iOS SDK",
+      "Understanding of iOS design principles",
+      "Knowledge of RESTful APIs",
+      "Familiarity with Git version control"
+    ],
+    "posted": "2023-07-20"
+  },
+  {
+    "id": 5,
+    "company": "Facebook",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/120px-Facebook_Logo_%282019%29.png",
+    "title": "Full Stack Engineer",
+    "location": "Menlo Park, CA",
+    "description": "We're looking for a Full Stack Engineer to join our team. You will work on both frontend and backend development, implement new features, and optimize application performance.",
+    "requirements": [
+      "Experience with JavaScript/TypeScript",
+      "Knowledge of Node.js and React",
+      "Experience with database design and management",
+      "Understanding of server-side rendering"
+    ],
+    "posted": "2023-08-05"
+  }
+] 

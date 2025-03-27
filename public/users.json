@@ -1,0 +1,46 @@
+[
+  {
+    "id": 101,
+    "name": "John Doe",
+    "profilePic": "https://randomuser.me/api/portraits/men/1.jpg",
+    "headline": "Software Engineer at Tech Company",
+    "bio": "Passionate about building scalable web applications and solving complex problems.",
+    "jobTitle": "Software Engineer",
+    "company": "Tech Company",
+    "connections": 486,
+    "posts": [1]
+  },
+  {
+    "id": 102,
+    "name": "Jane Smith",
+    "profilePic": "https://randomuser.me/api/portraits/women/2.jpg",
+    "headline": "Product Manager at Innovation Inc",
+    "bio": "Experienced product manager focused on user-centered design and business outcomes.",
+    "jobTitle": "Product Manager",
+    "company": "Innovation Inc",
+    "connections": 732,
+    "posts": [2]
+  },
+  {
+    "id": 103,
+    "name": "Robert Johnson",
+    "profilePic": "https://randomuser.me/api/portraits/men/3.jpg",
+    "headline": "Data Scientist at Analytics Co",
+    "bio": "Data scientist with expertise in machine learning and predictive analytics.",
+    "jobTitle": "Data Scientist",
+    "company": "Analytics Co",
+    "connections": 358,
+    "posts": [3]
+  },
+  {
+    "id": 104,
+    "name": "Emily Wilson",
+    "profilePic": "https://randomuser.me/api/portraits/women/4.jpg",
+    "headline": "UX Designer at Creative Solutions",
+    "bio": "Creating beautiful and functional user experiences through thoughtful design.",
+    "jobTitle": "UX Designer",
+    "company": "Creative Solutions",
+    "connections": 511,
+    "posts": [4]
+  }
+] 

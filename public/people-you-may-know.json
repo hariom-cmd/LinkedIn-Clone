@@ -1,0 +1,37 @@
+[
+  {
+    "id": 201,
+    "name": "Michael Brown",
+    "profilePic": "https://randomuser.me/api/portraits/men/5.jpg",
+    "headline": "Frontend Developer at WebTech",
+    "mutualConnections": 12
+  },
+  {
+    "id": 202,
+    "name": "Sarah Davis",
+    "profilePic": "https://randomuser.me/api/portraits/women/6.jpg",
+    "headline": "Marketing Manager at Brand Solutions",
+    "mutualConnections": 8
+  },
+  {
+    "id": 203,
+    "name": "David Miller",
+    "profilePic": "https://randomuser.me/api/portraits/men/7.jpg",
+    "headline": "Project Manager at Global Systems",
+    "mutualConnections": 15
+  },
+  {
+    "id": 204,
+    "name": "Jennifer Lee",
+    "profilePic": "https://randomuser.me/api/portraits/women/8.jpg",
+    "headline": "Data Analyst at Insights Corp",
+    "mutualConnections": 5
+  },
+  {
+    "id": 205,
+    "name": "Alex Turner",
+    "profilePic": "https://randomuser.me/api/portraits/men/9.jpg",
+    "headline": "Software Architect at Cloud Solutions",
+    "mutualConnections": 10
+  }
+] 

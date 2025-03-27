@@ -1,0 +1,66 @@
+.job-card {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.job-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+.company-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.company-logo-lg {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.job-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #0a66c2;
+}
+
+.company-name {
+  color: #333;
+  font-weight: 500;
+}
+
+.location {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.search-icon {
+  left: 15px;
+  top: 50%;
+  transform: translate(100%,-50%);
+  color: #666;
+  z-index: 10;
+}
+
+.job-search-input {
+  padding-left: 40px;
+  height: 50px;
+  border-radius: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.job-search-input:focus {
+  box-shadow: 0 0 0 0.25rem rgba(10, 102, 194, 0.25);
+  border-color: #0a66c2;
+}
+
+.save-job-btn:hover {
+  background-color: rgba(10, 102, 194, 0.1);
+} 

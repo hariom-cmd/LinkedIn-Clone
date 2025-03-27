@@ -1,0 +1,41 @@
+.login-container {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e4e7eb 100%);
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease-in-out;
+}
+
+.form-control {
+  border-radius: 8px;
+  padding: 12px;
+  border: 1px solid #e1e1e1;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 119, 181, 0.25);
+  border-color: #0077b5;
+}
+
+.btn-primary {
+  background-color: #0077b5;
+  border-color: #0077b5;
+  border-radius: 25px;
+  padding: 12px;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #006097;
+  border-color: #006097;
+}
+
+a:hover {
+  text-decoration: underline !important;
+} 
